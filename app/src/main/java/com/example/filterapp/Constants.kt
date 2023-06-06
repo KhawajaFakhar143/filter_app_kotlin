@@ -3,7 +3,7 @@ package com.example.filterapp
 import jp.co.cyberagent.android.gpuimage.filter.*
 
 object Constants {
-
+//changing for git
     var imageFilters: ArrayList<ImageFilters> = ArrayList()
 
 
